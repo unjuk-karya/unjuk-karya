@@ -42,3 +42,32 @@ Platform media sosial dan marketplace untuk seniman Indonesia, dirancang untuk m
 - **Github Page**: Deployment aplikasi frontend.
 - **Google Cloud**: Infrastruktur cloud untuk backend.
 - **GitHub**: Version control dan kolaborasi pengembangan.
+
+---
+
+### Instalasi
+
+1. Clone repositori:
+    ```sh
+    git clone https://github.com/ruang-seni/fe-ruang-seni.git
+    ```
+
+2. Masuk ke direktori proyek:
+    ```sh
+    cd fe-ruang-seni
+    ```
+
+3. Install dependensi:
+    ```sh
+    npm install
+    ```
+
+4. Build dependensi:
+    ```sh
+    npm run build
+    ```
+
+4. Jalankan server pengembangan:
+    ```sh
+    npm run start-dev
+    ```
